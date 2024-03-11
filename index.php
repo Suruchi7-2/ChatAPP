@@ -32,11 +32,11 @@
           <i class="fas fa-eye"></i>
         </div>
         <div class="field image">
-          <label>Select Image</label>
+          <label>Select ur profile</label>
           <input type="file" name="image" accept="image/x-png,image/gif,image/jpeg,image/jpg" required>
         </div>
         <div class="field button">
-          <input type="submit" name="submit" value="Continue to Chat">
+          <input type="submit" name="submit" value="Next for Chat">
         </div>
       </form>
       <div class="link">Already signed up? <a href="login.php">Login now</a></div>

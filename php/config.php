@@ -1,5 +1,6 @@
 <?php
-  $hostname = "localhost";
+//create for database coonectivity= 
+$hostname="localhost";
   $username = "root";
   $password = "";
   $dbname = "chatapp";
